@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Elsie Berge",
+      "id": 3
+    },
+    {
+      "name": "Matt Fahey",
+      "id": 6
+    },
+    {
+      "name": "Guy Effertz PhD",
+      "id": 7
+    },
+    {
+      "name": "Randolph Bartoletti",
+      "id": 8
+    },
+    {
+      "name": "Donna Macejkovic",
+      "id": 9
+    }
+  ],
+  "albums": [],
+  "photos": []
+}
